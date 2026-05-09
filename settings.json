@@ -6,9 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "MINECRAFTMC4747.aternos.me
+",
     "port": 29195,
-    "version": "1.21.1"
+    "version": "1.21.12"
   },
   "position": {
     "enabled": true,
